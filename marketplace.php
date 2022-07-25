@@ -11,7 +11,7 @@
         content goes here
         </div>
         <div class="col-sm-4">
-        <h2>Sign up</h2>
+        <h2>Marketplace</h2>
         content goes here
         </div>
         <div class="col-sm-4">
